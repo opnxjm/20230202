@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(255, 218, 72);
+    background-color: #FFDFD3;
 }
 div.n{
-    background-color: #7ec983;
+    background-color: #fdf8b6;
     position: absolute;
     margin: auto;
     justify-content: center;
@@ -12,8 +12,8 @@ div.n{
     height: 300px;
     width: 600px;
     border: 5px solid;
-    border-color: rgb(61, 146, 89);
-    border-radius: 20px;
+    border-color: #f5ec70;
+    border-radius: 30px;
     text-align:left;
     
 }
@@ -23,11 +23,11 @@ div.in{
     float: right;
     margin-right: 50px;
     margin-top: 50px;
-    color: rgb(237, 233, 211);
+    color: #D291BC;
 }
 img{
     position: absolute;
     top: 9%;
     left: 30px;
-    
+    border-radius: 30px;
 }
